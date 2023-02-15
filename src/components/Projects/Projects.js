@@ -60,7 +60,7 @@ function Projects() {
               imgPath={drumkit}
               isBlog={false}
               title="Drum Kit"
-              description="An interactive Drum KIt Project which uses javaScript Event Listener and allows you to play the sounds of all the components of a Drum either by a click or  particular keyboard key press. 🎵"
+              description="An interactive Drum Kit Project which uses javaScript Event Listener and allows you to play the sounds of all the components of a Drum either by a click or  particular keyboard key press. 🎵"
               ghLink="https://github.com/kanishkk19/DrumKit"
               demoLink="https://kanishkk19.github.io/DrumKit/"
             />
