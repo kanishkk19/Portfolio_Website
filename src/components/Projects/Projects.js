@@ -9,6 +9,7 @@ import drumkit from "../../Assets/Projects/drumkit.png";
 import tictactoe from "../../Assets/Projects/tictactoe.png";
 import dicegame from "../../Assets/Projects/dicegame.png";
 import countdowntimer from "../../Assets/Projects/countdowntimer.png";
+import todolist from "../../Assets/Projects/todolist.png";
 
 function Projects() {
   return (
@@ -30,6 +31,17 @@ function Projects() {
               description="A Spotify clone that features 10 different songs, has the features to play, pause, seek, forward and rewind the song, anytime, anywhere."
               ghLink="https://github.com/kanishkk19/SpotifyClone"
               demoLink="https://kanishkk19.github.io/SpotifyClone/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={todolist}
+              isBlog={false}
+              title="To-Do List"
+              description="Simple todo list web app to save and manage todos, and save them to the storage. The web app has a beatiful UI design and theme options 📝"
+              ghLink="https://github.com/kanishkk19/To-Do-List"
+              demoLink="https://kanishkk19.github.io/To-Do-List/"
             />
           </Col>
 
