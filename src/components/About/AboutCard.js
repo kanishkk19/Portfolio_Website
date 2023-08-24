@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Kanishk Bajaj </span>
             from <span className="purple"> Gurgaon, India.</span>
-            <br />I am a 3rd year student currently persuing BTech in Computer
+            <br />I am a final year student currently persuing BTech in Computer
             Science w/s Gaming Technology at SRM University Main campus.
             <br />
             <br />
