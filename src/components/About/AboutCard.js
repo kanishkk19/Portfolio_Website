@@ -14,7 +14,7 @@ function AboutCard() {
             Science w/s Gaming Technology at SRM University Main campus.
             <br />
             <br />
-            Apart from coding,  here are some of the activities I like to do:
+            Apart from coding, here are some of the activities I like to do:
           </p>
           <ul>
             <li className="about-activity">
